@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contain{
+    background-color: bisque;
+    font-size: 20px;
+    padding: 20px;
+}
+.result{
+    text-align: center;
+}
+
+.calc{
+    font-size: 20px;
+    padding: 10px;
+}
+.refresh{
+    font-size: 20px;
+    padding: 10px;
+}
+.dem{
+    font-size: 20px;
+}
